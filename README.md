@@ -16,4 +16,4 @@ ATM ACC PIN NUMBER - 1234
 
 LINKENDIN :--- https://www.linkedin.com/in/sctgmf/
 GITHUB : --- TEEJAYTAS
-@SCTGMF
+TWITTER : ---- https://twitter.com/SCTGMF
